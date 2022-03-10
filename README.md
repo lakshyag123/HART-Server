@@ -14,8 +14,8 @@ This is a server-side code to fulfill this purpose.
 ### HOW TO RUN (In local machine)
 
 - Download ZIP or Clone the repository
-- Navigate to the directory
 - Open Eclipse 
+- Navigate to the directory
 - Run Java/Springboot Application
 
 
